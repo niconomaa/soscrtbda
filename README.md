@@ -1,2 +1,2 @@
 # soscrtbda
-sharing dat bda 1 stuff
+sharing dat BDA stuff
